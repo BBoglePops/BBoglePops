@@ -31,8 +31,6 @@
 |      Web Design / Unreal       |     Frontend     |     Backend / Gaze AI     |   Backend / Voice AI   |
 <br>
 
-## 2024 이브와 ICT멘토링 입상
-
 ## 서비스 구성도
 <img width="9720" height="5763" alt="구성도" src="https://github.com/user-attachments/assets/3074d50d-a173-42c0-bed8-eef893b5af59" /> <br>
 
